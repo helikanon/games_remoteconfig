@@ -21,8 +21,9 @@
     "bannerPosition": "bottom",
    "ElevatorAdCounter":3,
     "adOrder": [
-     "applovin",
-     "admob"
+     "admob",
+     "applovin"
+     
       
     ]
   },
