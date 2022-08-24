@@ -1,0 +1,15 @@
+// 20220824114416
+// https://raw.githubusercontent.com/mzgs/Android-Json-Data/master/data.json
+
+{
+  "com.helikanongame.test": {
+    "showAds": true,
+    "showInterstitialOnStart": false,
+    "bannerPosition": "bottom",
+    "adOrder": [
+      "admob",
+      "applovin"
+    ]
+  },
+
+}
