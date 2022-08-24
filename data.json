@@ -1,7 +1,7 @@
 {
 
 {
-  "com.helikanongame.test": {
+  "com.helikanongame.snakeidlearcade": {
     "showAds": true,
     "showInterstitialOnStart": false,
     "bannerPosition": "bottom",
@@ -10,5 +10,19 @@
       "applovin"
     ]
   },
+
+
+{
+  "com.helikanongame.thundermasteridle": {
+    "showAds": true,
+    "showInterstitialOnStart": false,
+    "bannerPosition": "bottom",
+    "adOrder": [
+      "admob",
+      "applovin"
+    ]
+  },
+  
+  
 
 }
