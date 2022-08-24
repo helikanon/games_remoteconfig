@@ -1,6 +1,7 @@
-{
+
 
 {
+ 
   "com.helikanongame.snakeidlearcade": {
     "showAds": true,
     "showInterstitialOnStart": false,
@@ -12,7 +13,7 @@
   },
 
 
-{
+
   "com.helikanongame.thundermasteridle": {
     "showAds": true,
     "showInterstitialOnStart": false,
