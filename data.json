@@ -6,6 +6,7 @@
     "showAds": true,
     "showInterstitialOnStart": false,
     "bannerPosition": "bottom",
+    "upgradeInterstitialDelay":180,
     "adOrder": [
       "admob",
       "applovin"
