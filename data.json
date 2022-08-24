@@ -19,6 +19,7 @@
     "showAds": true,
     "showInterstitialOnStart": false,
     "bannerPosition": "bottom",
+   "ElevatorAdCounter",
     "adOrder": [
       "admob",
       "applovin"
