@@ -13,7 +13,7 @@
    },
    "com.helikanongame.thundermasteridle":{
       "showAds":true,
-      "showInterstitialOnStart":false,
+      "showInterstitialOnStart":true,
       "bannerPosition":"bottom",
       "ElevatorAdCounter":3,
       "adOrder":[
