@@ -5,8 +5,9 @@
       "bannerPosition":"bottom",
       "upgradeInterstitialDelay":20,
       "adOrder":[
-         "applovin",
-         "admob"
+         "admob",
+         "applovin"
+         
       ]
    },
    "com.helikanongame.thundermasteridle":{
