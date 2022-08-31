@@ -1,12 +1,13 @@
 {
    "com.helikanongame.snakeidlearcade":{
       "showAds":true,
-      "showInterstitialOnStart":true,
+      "showInterstitialOnStart":false,
       "bannerPosition":"bottom",
-      "upgradeInterstitialDelay":20,
+      "upgradeInterstitialDelay":120,
       "adOrder":[
-         "admob",
-         "applovin"
+         "applovin",
+         "admob"
+         
          
       ]
    },
