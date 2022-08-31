@@ -1,33 +1,22 @@
-
-
 {
- 
-  "com.helikanongame.snakeidlearcade": {
-    "showAds": true,
-    "showInterstitialOnStart": false,
-    "bannerPosition": "bottom",
-    "upgradeInterstitialDelay":180,
-    "adOrder": [
-      "admob",
-      "applovin"
-    ]
-  },
-
-
-
-  "com.helikanongame.thundermasteridle": {
-    "showAds": true,
-    "showInterstitialOnStart": false,
-    "bannerPosition": "bottom",
-   "ElevatorAdCounter":3,
-    "adOrder": [
-     "admob",
-     "applovin"
-     
-      
-    ]
-  },
-  
-  
-
+   "com.helikanongame.snakeidlearcade":{
+      "showAds":true,
+      "showInterstitialOnStart":false,
+      "bannerPosition":"bottom",
+      "upgradeInterstitialDelay":120,
+      "adOrder":[
+         "applovin",
+         "admob"
+      ]
+   },
+   "com.helikanongame.thundermasteridle":{
+      "showAds":true,
+      "showInterstitialOnStart":false,
+      "bannerPosition":"bottom",
+      "ElevatorAdCounter":3,
+      "adOrder":[
+         "applovin",
+         "admob"
+      ]
+   }
 }
