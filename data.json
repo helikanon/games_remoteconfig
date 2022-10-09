@@ -1,7 +1,7 @@
 {
    "com.helikanongame.snakeidlearcade":{
       "showAds":true,
-      "showInterstitialOnStart":false,
+      "showInterstitialOnStart":true,
       "bannerPosition":"bottom",
       "upgradeInterstitialDelay":120,
       "adOrder":[
