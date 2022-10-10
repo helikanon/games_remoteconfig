@@ -3,12 +3,10 @@
       "showAds":true,
       "showInterstitialOnStart":true,
       "bannerPosition":"bottom",
-      "upgradeInterstitialDelay":120,
+      "upgradeInterstitialDelay":50,
       "adOrder":[
          "applovin",
          "admob"
-         
-         
       ]
    },
    "com.helikanongame.thundermasteridle":{
