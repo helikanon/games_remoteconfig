@@ -4,8 +4,8 @@
       "showInterstitialOnStart":true,
       "bannerPosition":"bottom",
       "upgradeInterstitialDelay":50,
-      "showRandomAdMinSeconds":10,
-      "showRandomAdMaxSeconds":20,
+      "showRandomAdMinSeconds":50,
+      "showRandomAdMaxSeconds":70,
       "adOrder":[
          "applovin",
          "admob"
