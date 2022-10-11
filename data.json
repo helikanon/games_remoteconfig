@@ -11,6 +11,22 @@
          "admob"
       ]
    },
+   
+   
+    "com.Helikanon.SwingThrow":{
+      "showAds":false,
+      "showInterstitialOnStart":true,
+      "bannerPosition":"bottom",
+      "upgradeInterstitialDelay":50,
+      "showRandomAdMinSeconds":50,
+      "showRandomAdMaxSeconds":70,
+      "adOrder":[
+         "applovin",
+         "admob"
+      ]
+   },
+   
+   
    "com.helikanongame.thundermasteridle":{
       "showAds":true,
       "showInterstitialOnStart":true,
