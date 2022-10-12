@@ -15,7 +15,7 @@
    
     "com.Helikanon.SwingThrow":{
       "showAds":true,
-      "showInterstitialOnStart":true,
+      "showInterstitialOnStart":false,
       "bannerPosition":"bottom",
       "upgradeInterstitialDelay":50,
       "showRandomAdMinSeconds":50,
